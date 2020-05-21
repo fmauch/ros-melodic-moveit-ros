@@ -20,6 +20,7 @@ ros_depends=(ros-melodic-moveit-ros-planning
   ros-melodic-moveit-ros-robot-interaction
   ros-melodic-moveit-ros-benchmarks
   ros-melodic-moveit-ros-manipulation
+  ros-melodic-moveit-ros-occupancy_map_monitor
   ros-melodic-moveit-ros-perception)
 depends=(${ros_depends[@]})
 
